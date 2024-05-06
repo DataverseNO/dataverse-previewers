@@ -1,0 +1,5 @@
+https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
+https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css
+https://unpkg.com/leaflet@1.7.1/dist/leaflet.css
+https://cdn.jsdelivr.net/handsontable/0.28.4/handsontable.full.min.css
+https://cdn.jsdelivr.net/npm/jquery.fancytree@2.38.1/dist/skin-bootstrap-n/ui.fancytree.min.css
