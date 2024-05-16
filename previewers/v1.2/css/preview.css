@@ -57,6 +57,7 @@
     margin: 20px auto;
     min-width: 600px;
     display: table;
+    max-width: 100%;
 }
 
 #logo {

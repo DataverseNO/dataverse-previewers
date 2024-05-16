@@ -55,6 +55,7 @@ margin-left: 40px;
     margin:20px auto;
     min-width:600px;
     display: table;
+    max-width: 100%;
 }
 
 #logo {
@@ -67,7 +68,6 @@ margin-left: 40px;
 #footer {
     font-size: x-small;
     float: right;
-}
 }
 
 .annotation-note {
