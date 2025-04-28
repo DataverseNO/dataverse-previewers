@@ -15,7 +15,6 @@ if echo "$VERSIONS" | grep -q "\bv1.4\b"; then
     ./localinstall.sh previewers/v1.4 ${PREVIEWERS_PROVIDER_URL}
     cp *.md previewers/v1.4
 fi
-fi
 if echo "$VERSIONS" | grep -q "\bv1.5\b"; then
     ./localinstall.sh previewers/v1.5 ${PREVIEWERS_PROVIDER_URL}
     cp *.md previewers/v1.5
